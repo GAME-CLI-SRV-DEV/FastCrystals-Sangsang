@@ -19,3 +19,6 @@ Based on the work by [Jyguy](https://github.com/Jyguy) in [mcpvp-club/FasterCrys
   * FastCrystals makes various code readability improvements by utilizing much less nesting, more early returns, and adhering to the [Google Java Format](https://github.com/google/google-java-format)
 
 * Some fixes, for example FasterCrystals doesn't work with bedrock, only obsidian
+
+# Remember Kids, Don't be like "Villagers654" aka Tank Tops Paul.
+his server, "endzone.me" is on a brink of getting invaded.
